@@ -1,0 +1,2 @@
+# maven-qck-strt
+test
